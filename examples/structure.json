@@ -1,0 +1,184 @@
+{
+    "root": {
+        "name": "company",
+        "subdirectory": [
+            {
+                "name": "project",
+                "subdirectory": [
+                    {
+                        "name": "characters",
+                        "subdirectory": [
+                            {
+                                "name": "meshes"
+                            },
+                            {
+                                "name": "rigs"
+                            },
+                            {
+                                "name": "animations",
+                                "subdirectory": [
+                                    {
+                                        "name": "blueprints"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "textures"
+                            },
+                            {
+                                "name": "tools"
+                            },
+                            {
+                                "name": "temp"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "environments",
+                        "subdirectory": [
+                            {
+                                "name": "background",
+                                "subdirectory": [
+                                    {
+                                        "name": "meshes"
+                                    },
+                                    {
+                                        "name": "textures"
+                                    },
+                                    {
+                                        "name": "tools"
+                                    },
+                                    {
+                                        "name": "temp"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "buildings",
+                                "subdirectory": [
+                                    {
+                                        "name": "meshes"
+                                    },
+                                    {
+                                        "name": "textures"
+                                    },
+                                    {
+                                        "name": "tools"
+                                    },
+                                    {
+                                        "name": "temp"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "foliage",
+                                "subdirectory": [
+                                    {
+                                        "name": "meshes"
+                                    },
+                                    {
+                                        "name": "textures"
+                                    },
+                                    {
+                                        "name": "tools"
+                                    },
+                                    {
+                                        "name": "temp"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "props",
+                                "subdirectory": [
+                                    {
+                                        "name": "meshes"
+                                    },
+                                    {
+                                        "name": "textures"
+                                    },
+                                    {
+                                        "name": "rigs"
+                                    },
+                                    {
+                                        "name": "animations",
+                                        "subdirectory": [
+                                            {
+                                                "name": "blueprints"
+                                            },
+                                            {
+                                                "name": "tools"
+                                            },
+                                            {
+                                                "name": "temp"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "tools"
+                                    },
+                                    {
+                                        "name": "temp"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp"
+                    },
+                    {
+                        "name": "tools"
+                    },
+                    {
+                        "name": "postprocess",
+                        "subdirectory": [
+                            {
+                                "name": "tools"
+                            },
+                            {
+                                "name": "temp"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "images",
+                        "subdirectory": [
+                            {
+                                "name": "tools"
+                            },
+                            {
+                                "name": "temp"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "effects",
+                        "subdirectory": [
+                            {
+                                "name": "materials"
+                            },
+                            {
+                                "name": "blueprints"
+                            },
+                            {
+                                "name": "textures"
+                            },
+                            {
+                                "name": "tools"
+                            },
+                            {
+                                "name": "temp"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "tools"
+            },
+            {
+                "name": "temp"
+            }
+        ]
+    }
+}

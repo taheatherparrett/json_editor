@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file alias="copy.png">icons/copy.png</file>
+        <file alias="delete.png">icons/delete.png</file>
+        <file alias="edit.png">icons/edit.png</file>
+        <file alias="open_doc.png">icons/open_doc.png</file>
+        <file alias="paste.png">icons/paste.png</file>
+        <file alias="save_doc.png">icons/save_doc.png</file>
+        <file alias="settings.png">icons/settings.png</file>
+        <file alias="undo.png">icons/undo.png</file>
+    </qresource>
+</RCC>
